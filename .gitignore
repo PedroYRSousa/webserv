@@ -1,0 +1,7 @@
+webserv
+webserv_unit_test
+
+obj/
+obj_test/
+logs/
+a.out
